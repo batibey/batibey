@@ -21,8 +21,8 @@
 
 <h3>My GitHub Stats :chart_with_upwards_trend:</h3>
 <div class="row">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayfundagci&show_icons=true&theme=radical&locale=en&layout=compact" alt="tayfundagci" width="45%" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayfundagci&show_icons=true&theme=dark&locale=en" alt="tayfundagci" width="45%" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=batibey&show_icons=true&theme=radical&locale=en&layout=compact" alt="batibey" width="45%" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=batibey&show_icons=true&theme=dark&locale=en" alt="batibey" width="45%" /></p>
 
 </div>
 
