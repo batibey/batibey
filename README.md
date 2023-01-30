@@ -1,5 +1,5 @@
 # Hi there, my name is Mustafa 👋
-## Someone who wants to be a backend developer
+## I am backend developer
 
 <div>
 <h3 align="left">Contact me:</h3>
