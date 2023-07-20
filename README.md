@@ -1,4 +1,4 @@
-# Hi there, my name is Mustafa 👋
+# Hi there 👋
 ## I am backend developer
 
 <div>
