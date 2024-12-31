@@ -19,7 +19,9 @@
 </div>
 
 ---
+## Statistics
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferhanabaci&show_icons=true&theme=radical)
 
 </details>
 
