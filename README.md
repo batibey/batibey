@@ -16,12 +16,9 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,docker,react,git,postgres,jenkins,)](https://skillicons.dev)<br><br>
 
 
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=batibey&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> </div>
 
 ---
-## Statistics
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=batibey&show_icons=true&theme=radical)
 
 </details>
 
